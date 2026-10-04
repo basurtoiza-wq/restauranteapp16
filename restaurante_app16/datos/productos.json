@@ -1,0 +1,27 @@
+[
+    {
+        "nombre": "Hamburguesa",
+        "precio": 5.5,
+        "cantidad": 10
+    },
+    {
+        "nombre": "Jugo Natural",
+        "precio": 1.0,
+        "cantidad": 20
+    },
+    {
+        "nombre": "Perro Caliente",
+        "precio": 3.5,
+        "cantidad": 4
+    },
+    {
+        "nombre": "Pizza",
+        "precio": 1.75,
+        "cantidad": 12
+    },
+    {
+        "nombre": "Tacos",
+        "precio": 1.0,
+        "cantidad": 12
+    }
+]

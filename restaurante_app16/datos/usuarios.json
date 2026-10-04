@@ -1,0 +1,27 @@
+[
+    {
+        "nombre": "Gabriela",
+        "contrasena": "1234",
+        "rol": "Administrador"
+    },
+    {
+        "nombre": "Gojo",
+        "contrasena": "5678",
+        "rol": "Cliente"
+    },
+    {
+        "nombre": "Ana",
+        "contrasena": "2345",
+        "rol": "Cliente"
+    },
+    {
+        "nombre": "Cristiano",
+        "contrasena": "12345",
+        "rol": "Cliente"
+    },
+    {
+        "nombre": "Isabel",
+        "contrasena": "1234",
+        "rol": "Cliente"
+    }
+]
